@@ -1,4 +1,4 @@
-# CausalDifTab
+# CausalDiffTab
 
 ## Note
 Our code will be open-sourced after the publication of the paper.
